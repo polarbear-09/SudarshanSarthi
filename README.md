@@ -6,26 +6,9 @@ SudarshanSarthi is an AI-powered disease outbreak prediction and prevention plat
 
 ---
 
-## 🌐 Live Demo
-
-👉 [Click here to try it live](https://sudarshansarthi.vercel.app)
-
 ## 📁 GitHub Repository
 
-👉 [https://github.com/yourusername/sudarshansarthi](https://github.com/yourusername/sudarshansarthi)
-
----
-
-## 📌 Table of Contents
-
-* [Features](#-features)
-* [Tech Stack](#-tech-stack)
-* [APIs Used](#-apis-used)
-* [Installation & Setup](#-installation--setup)
-* [Screenshots](#-screenshots)
-* [Future Scope](#-future-scope)
-* [Team](#-team)
-* [License](#-license)
+👉 [https://github.com/polarbear-09/sudarshansarthi](https://github.com/polarbear-09/SudarshanSarthi
 
 ---
 
