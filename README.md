@@ -6,13 +6,13 @@ SudarshanSarthi is an AI-powered disease outbreak prediction and prevention plat
 
 ---
 
-## 📁 GitHub Repository
+## GitHub Repository
 
-👉 [https://github.com/polarbear-09/sudarshansarthi](https://github.com/polarbear-09/SudarshanSarthi
+Link -  [https://github.com/polarbear-09/sudarshansarthi](https://github.com/polarbear-09/SudarshanSarthi
 
 ---
 
-## ✨ Features
+## Features
 
 ```json
 [
@@ -40,7 +40,7 @@ SudarshanSarthi is an AI-powered disease outbreak prediction and prevention plat
 
 ---
 
-## 🔌 APIs Used
+## APIs Used
 
 | API             | Purpose                      |
 | --------------- | ---------------------------- |
@@ -53,27 +53,22 @@ SudarshanSarthi is an AI-powered disease outbreak prediction and prevention plat
 
 ---
 
-## 📸 Screenshots
+## Screenshots
+---![Screenshot 2025-07-05 031454](https://github.com/user-attachments/assets/911c077e-935b-4d1a-835d-1a830722699c)
+---![Screenshot 2025-07-05 031518](https://github.com/user-attachments/assets/05872718-445b-44d1-aa99-3c4848b27578)
 
-* 🏠 Homepage with tagline + clean navigation
-* 💡 Feature cards (hover to expand details)
-* 🗺️ Outbreak heatmap
-* 📊 Forecast risk chart
-* 📰 Real-time news feed with NLP
 
----
+## Future Scope
 
-## 🚀 Future Scope
-
-* 📱 Android/iOS App
-* ⌚ Smartwatch & wearable data integration
-* 🌐 Multilingual support (Hindi, Kannada, etc.)
-* 🏥 Direct API from hospitals and clinics
-* 🧪 Symptom checker chatbot
+* Android/iOS App
+* Smartwatch & wearable data integration
+* Multilingual support (Hindi, Kannada, etc.)
+*  Direct API from hospitals and clinics
+* Symptom checker chatbot
 
 ---
 
-## 👨‍💻 Team
+## Team
 
 * Chitransh Dhoundiyal
 * Akshita Negi
