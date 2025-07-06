@@ -1,6 +1,6 @@
 # SudarshanSarthi
 
-**Tagline:** *"Bimari ke pehle nishaan, AkshiPulse kare pehchaan"*
+**Tagline:** *"Bimari ke pehle nishaan, SudarshanSarthi kare pehchaan"*
 
 SudarshanSarthi is an AI-powered disease outbreak prediction and prevention platform designed to keep users informed and protected—before sickness strikes. With a Netflix-style web interface, real-time API integrations, and cutting-edge AI models, it delivers proactive alerts and preventive recommendations based on environmental, health, and mobility data.
 
